@@ -1,0 +1,19 @@
+// Place all the styles related to the answers controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+ a {
+   color: grey;
+   &:hover {
+     color: green;
+   }
+ }
+
+ h1 {
+     font-size: 40px;
+   }
+
+ body {
+   background: lightgreen; // Using this variable
+   text-align: center;
+ }
